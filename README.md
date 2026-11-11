@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aamir</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Building+Fintech+%26+SaaS+Platforms;React+%7C+Next.js+%7C+Django+REST+%7C+FastAPI;From+API+Design+to+AWS+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Developer;Fintech+%26+SaaS+Platform+Builder;Django+REST+%7C+FastAPI+%7C+React+%7C+Next.js;From+API+Design+to+Production+Deployment" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,14 +15,15 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Software Developer** with 1+ year of experience building and deploying **scalable fintech and SaaS platforms**. I work across the stack: **React.js / Next.js** on the frontend and **Django REST Framework / FastAPI** on the backend, with hands-on experience taking modules from **API design to AWS production deployment**.
+I'm a **Full Stack Software Developer** building production **fintech and SaaS platforms** since June 2025. I work across the stack: **Django REST Framework and FastAPI** on the backend, **React.js and Next.js** on the frontend, and I own modules from API design through **AWS / Docker / Kubernetes** deployment.
 
-- 💳 I build **payment, wallet and KYC systems**: BBPS, AEPS, DMT, UPI payouts, recharge and payment-gateway integrations
-- 🔐 I design **secure authentication and RBAC** systems with JWT and multi-role hierarchies
-- ☁️ I deploy and monitor production services on **AWS EC2 with Nginx and PM2**
-- 🧮 I care about **money-safe engineering**: atomic transactions, idempotency, ledgers and clean error logging
+- 💳 **Payments & KYC:** BBPS, AEPS, DMT, UPI payout, recharge, payment-gateway and wallet integrations
+- 🏦 **Lending:** loan origination and management workflows, credit rule engines for NBFC/bank lenders
+- 🔐 **Security:** JWT authentication and RBAC for multi-role systems (up to 8 roles)
+- ⚙️ **Backend engineering:** Celery background jobs, PostgreSQL, structured logging and error handling
+- ☁️ **Deployment:** AWS EC2, Nginx, PM2, Docker, Kubernetes, CI/CD
 - 🎓 **MCA**, KIET Group of Institutions (2023-2025)
-- 📍 Based in India · 💼 Currently at **Bharat Grow, Noida** (June 2025 - Present)
+- 📍 Noida, India · 💼 **Software Developer at Bharat Grow**
 
 ---
 
@@ -36,17 +37,19 @@ I'm a **Full Stack Software Developer** with 1+ year of experience building and 
 
 **Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend**
 
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
@@ -59,16 +62,17 @@ I'm a **Full Stack Software Developer** with 1+ year of experience building and 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -77,52 +81,25 @@ I'm a **Full Stack Software Developer** with 1+ year of experience building and 
 ### Software Developer · Bharat Grow, Noida
 *June 2025 - Present*
 
-- Built and maintained fintech web apps using **React.js, Django REST Framework, MongoDB and Tailwind CSS**, powering authentication, dashboards, transactions and settlements.
-- Designed **role-based access control (RBAC)** and real-time reporting used across admin and merchant workflows.
-- Integrated third-party APIs (**BBPS, AEPS, DMT, mobile recharge, KYC, payment gateway, wallet**) with structured error handling and logging to cut failed-transaction debugging time.
+- Engineered fintech web applications using **React.js, Django REST Framework, MongoDB and Tailwind CSS**, powering authentication, dashboards, transactions and settlements.
+- Architected **role-based access control (RBAC)** and real-time reporting used across admin and merchant workflows.
+- Integrated **7 third-party APIs** (BBPS, AEPS, DMT, mobile recharge, KYC, payment gateway, wallet) with structured error handling and logging, reducing failed-transaction debugging time.
 - Deployed and monitored production services on **AWS EC2 with Nginx and PM2**, tracking uptime and performance.
 
 ---
 
-## 📦 Featured Projects
+## 📦 Featured Work
 
-### 💸 [PaySir](https://paysir.in): Fintech Distributor & Payment Aggregator
-`Django REST Framework` `JWT` `RBAC`
+> 🔒 Most of my work is built for clients, so source code is private. Happy to discuss the engineering approach in an interview or call.
 
-Multi-role wallet and payment aggregator backend with a full hierarchy: **superadmin → admin → staff → master → dealer → retailer → connector → customer**.
+| Project | What it is | Stack |
+|---|---|---|
+| 💸 **[PaySir](https://paysir.in)** | Fintech platform for loans, banking and bill payments | Django · DRF · PostgreSQL · Celery · Next.js · Docker · Kubernetes |
+| ⚖️ **[LexFinis](https://lexfinis.org)** | Learning management system for legal education | Next.js · FastAPI · JWT · RBAC |
+| ⚡ **[KwikInstaPe](https://kwikinstape.com)** | Real-time digital payments platform (UPI payout, DMT, recharge, BBPS) | Next.js · Django REST · JWT |
+| 🏛️ **Legal & Compliance Management System** | Multi-tenant SaaS for legal and financial compliance | React · Django REST · Socket.io · MongoDB |
 
-- Built backend services for a fintech platform covering loan origination and management, AEPS/DMT banking, BBPS bill payments,
-digital KYC and a multi-level commission system (Django/DRF, PostgreSQL, Celery)
-- Designed a configurable, multi-tenant credit rule engine that evaluates one loan application against many NBFC/bank lenders, with
-immutable rule versioning, decision traces, maker-checker approvals and a hash-chained audit log.
-- Integrated third-party APIs: Eko (AEPS, DMT, BBPS), Surepass (Aadhaar, PAN, DigiLocker), multi-bureau credit reports, Account
-Aggregator and EPFO.
-- Built HRMS modules (staff, attendance, leave, payroll) and admin dashboards in Next.js. Deployed with Docker and Kubernetes.
-
-### ⚡ [KwikInstaPe](https://kwikinstape.com): Digital Payment Platform
-`Next.js` `Django REST Framework` `JWT`
-
-Real-time payments platform offering **UPI payout, DMT, mobile/DTH recharge and BBPS bill payments**.
-
-- Django REST APIs for transaction processing, settlements and partner onboarding
-- Next.js frontend for a fast, responsive payment experience
-
-### ⚖️ [LexFinis](https://lexfinis.org): Legal Learning Management System
-`Next.js` `FastAPI` `JWT` `RBAC`
-
-Full-stack LMS for a legal education platform covering **courses, mentorship, assessments and certifications**.
-
-- FastAPI services for user management, submissions, reviews, results and platform-wide content modules
-
-### 🏛️ Legal & Compliance Management System
-`React.js` `Django REST Framework` `Socket.io` `MongoDB`
-
-Multi-role, **multi-tenant SaaS** (Super Admin, Lawyer, CA, Tenant Admin) for legal and financial compliance: contracts, GST, ITR and audits.
-
-- Compliance tracking with deadline and status indicators
-- Secure document management and **real-time chat via Socket.io**
-
-> 🔒 Most of my work is built for clients, so the source code is private. Happy to walk through architecture and design decisions in an interview or call.
+**Role:** Full Stack Developer across all of the above.
 
 ---
 
@@ -130,10 +107,11 @@ Multi-role, **multi-tenant SaaS** (Super Admin, Lawyer, CA, Tenant Admin) for le
 
 | | |
 |---|---|
-| **Payments & Wallets** | Ledger-based wallets, idempotent transactions, vendor timeouts and pending-state handling |
-| **Security** | JWT auth, RBAC, OTP, KYC flows, webhook verification |
-| **Reliability** | Atomic DB transactions, row-level locking, structured logging, reconciliation |
-| **Delivery** | API design → frontend integration → AWS deployment |
+| **Payments & Wallets** | Reliable transaction flows, idempotency, pending-state handling, clean error logs |
+| **Security** | JWT auth, RBAC, OTP and KYC flows |
+| **Backend design** | Modular architecture, background jobs, configurable business rules |
+| **Frontend** | Responsive dashboards and payment flows in React and Next.js |
+| **Delivery** | API design → frontend integration → containerized deployment |
 
 ---
 
@@ -146,10 +124,6 @@ Multi-role, **multi-tenant SaaS** (Super Admin, Lawyer, CA, Tenant Admin) for le
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aamir443&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aamir443&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -167,18 +141,18 @@ Multi-role, **multi-tenant SaaS** (Super Admin, Lawyer, CA, Tenant Admin) for le
 ## 🌱 Currently
 
 - 🔭 Building production-grade fintech and SaaS systems
-- 🧩 Sharpening **DSA** on [LeetCode](https://leetcode.com/u/aamir930) and **system design**
-- 💬 Ask me about: **payment integrations, RBAC, wallet design, Django REST, Next.js, AWS deployment**
+- 🧩 Practicing **DSA** on [LeetCode](https://leetcode.com/u/aamir930) and learning **system design**
+- 💬 Ask me about: **payment integrations, RBAC, Django REST, Celery, Next.js, Docker/Kubernetes deployment**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **Full Stack / Backend Developer** opportunities.
+Open to **Full Stack / Backend Developer** opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-aamir-a1062022a"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohammadaamir2002@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ If you like what you see, feel free to star a repo. Thanks for stopping by!</i></p>
+<p align="center"><i>⭐ Thanks for stopping by!</i></p>
