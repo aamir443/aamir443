@@ -1,44 +1,56 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Mohammad%20Aamir&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Fintech%20%26%20SaaS%20Builder&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="" />
+</p>
+
+<h1 align="center">Hi, I'm Mohammad Aamir 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Developer;Building+payment+platforms+that+handle+real+money;Django+REST+%7C+FastAPI+%7C+React+%7C+Next.js;From+API+design+to+Kubernetes+deployment" alt="Full Stack Software Developer | Fintech and SaaS | Django, FastAPI, React, Next.js" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+payment+platforms+that+handle+real+money+%F0%9F%92%B3;Django+REST+%7C+FastAPI+%7C+React+%7C+Next.js;From+API+design+to+Kubernetes+deployment+%E2%98%81%EF%B8%8F;Open+to+Full+Stack+%2F+Backend+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/mohammad-aamir-a1062022a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/aamir930"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:mohammadaamir2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aamir443?tab=followers"><img src="https://img.shields.io/github/followers/aamir443?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-aamir-a1062022a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/aamir930"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:mohammadaamir2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aamir443&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
-</p>
+---
 
-<!-- ===================== ABOUT ===================== -->
-## 👨‍💻 &nbsp;Who I Am
+## 🚀 About Me
 
-```js
-const aamir = {
-  role: "Full Stack Software Developer",
-  company: "Bharat Grow, Noida",
-  building: ["Payment platforms", "Lending workflows", "Multi-role SaaS"],
-  backend: ["Django REST", "FastAPI", "Celery", "PostgreSQL"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  deploy: ["AWS", "Docker", "Kubernetes", "Nginx", "CI/CD"],
-  education: "MCA, KIET Group of Institutions",
-  location: "Noida, India 📍",
-  openTo: "Full Stack / Backend roles 🚀",
-};
-```
+I build production **fintech and SaaS platforms**, from API design to deployment. I like systems where correctness matters: payments, wallets, KYC and lending.
 
-<!-- ===================== WHAT I BUILD ===================== -->
-## ⚡ &nbsp;What I Build
+| | |
+|---|---|
+| 💼 **Role** | Full Stack Software Developer at **Bharat Grow**, Noida |
+| 🏗️ **Building** | Payment platforms, lending workflows, multi-role SaaS |
+| ⚙️ **Backend** | Django REST Framework, FastAPI, Celery, PostgreSQL |
+| 🎨 **Frontend** | React.js, Next.js, Tailwind CSS |
+| ☁️ **Deployment** | AWS, Docker, Kubernetes, Nginx, CI/CD |
+| 🎓 **Education** | MCA, KIET Group of Institutions |
+| 🚀 **Open to** | Full Stack / Backend Developer roles |
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>1.5+</h2>years building<br/>fintech systems</td>
+    <td align="center" width="25%"><h2>4</h2>production<br/>platforms</td>
+    <td align="center" width="25%"><h2>7</h2>third-party APIs<br/>integrated</td>
+    <td align="center" width="25%"><h2>8</h2>user roles in<br/>largest RBAC system</td>
+  </tr>
+</table>
+
+---
+
+## ⚡ What I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Payments & KYC</h3>
-      BBPS, AEPS, DMT, UPI payout, recharge, payment-gateway and wallet integrations with clean error handling and logging.
+      <h3>💳 Payments and KYC</h3>
+      BBPS, AEPS, DMT, UPI payout, recharge, payment-gateway and wallet integrations, with clean error handling and logging.
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Lending Workflows</h3>
@@ -48,35 +60,31 @@ const aamir = {
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 Secure Multi-Role Systems</h3>
-      JWT authentication and role-based access control for platforms with up to 8 user roles.
+      JWT authentication and role-based access control for platforms with many user roles.
     </td>
     <td width="50%" valign="top">
       <h3>☁️ Production Delivery</h3>
-      API design → frontend → deployment on AWS with Nginx, PM2, Docker, Kubernetes and CI/CD.
+      API design, frontend integration and deployment on AWS with Nginx, PM2, Docker, Kubernetes and CI/CD.
     </td>
   </tr>
 </table>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ &nbsp;Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,react,nextjs,redux,tailwind,bootstrap&theme=dark&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,mongodb,aws,docker,kubernetes,nginx,linux&theme=dark&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=10" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Cloud and DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-<!-- ===================== PROJECTS ===================== -->
-## 📦 &nbsp;Featured Work
+---
+
+## 📦 Featured Work
 
 > 🔒 These are client projects, so the source code is private. Happy to walk through the engineering in an interview or call.
 
@@ -100,7 +108,7 @@ const aamir = {
       <code>Next.js</code> <code>Django REST</code> <code>JWT</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Legal & Compliance System</h3>
+      <h3>🏛️ Legal and Compliance System</h3>
       Multi-tenant SaaS for contracts, GST, ITR and audits, with real-time chat.<br/><br/>
       <code>React</code> <code>Django REST</code> <code>Socket.io</code> <code>MongoDB</code>
     </td>
@@ -109,8 +117,9 @@ const aamir = {
 
 <p align="center"><b>Role across all projects: Full Stack Developer</b></p>
 
-<!-- ===================== MINDSET ===================== -->
-## 🧠 &nbsp;How I Think About Engineering
+---
+
+## 🧠 How I Think About Engineering
 
 | | |
 |---|---|
@@ -119,32 +128,34 @@ const aamir = {
 | 🪵 **Logs that help** | Structured errors that cut failed-transaction debugging time. |
 | 🔒 **Secure by default** | JWT, RBAC, OTP and KYC flows built in from day one. |
 
-<!-- ===================== STATS ===================== -->
-## 📊 &nbsp;GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aamir443&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir443&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aamir443&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir443&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aamir443&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aamir443&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamir443&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+---
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 Open to **Full Stack / Backend Developer** opportunities. If you're building something in fintech or SaaS, let's talk.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-aamir-a1062022a"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohammadaamir2002@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-aamir-a1062022a"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammadaamir2002@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,50:203a43,100:0f2027" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=aamir443&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2c5364,50:203a43,100:0f2027" width="100%" alt="" />
 </p>
