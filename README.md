@@ -91,11 +91,13 @@ I'm a **Full Stack Software Developer** with 1+ year of experience building and 
 
 Multi-role wallet and payment aggregator backend with a full hierarchy: **superadmin → admin → staff → master → dealer → retailer → connector → customer**.
 
-- OTP authentication and KYC verification
-- Core services: **AEPS, DMT, BBPS, mobile recharge, vendor payments**, plus commission and credit-linking engines
-- **LOS/LMS module** for loan underwriting, sanction, disbursement, EMI scheduling and collections
-- Staff management module (task assignment, departments/teams, document upload)
-- Legally admissible **T&C acceptance proof system** with downloadable certificates
+- Built backend services for a fintech platform covering loan origination and management, AEPS/DMT banking, BBPS bill payments,
+digital KYC and a multi-level commission system (Django/DRF, PostgreSQL, Celery)
+- Designed a configurable, multi-tenant credit rule engine that evaluates one loan application against many NBFC/bank lenders, with
+immutable rule versioning, decision traces, maker-checker approvals and a hash-chained audit log.
+- Integrated third-party APIs: Eko (AEPS, DMT, BBPS), Surepass (Aadhaar, PAN, DigiLocker), multi-bureau credit reports, Account
+Aggregator and EPFO.
+- Built HRMS modules (staff, attendance, leave, payroll) and admin dashboards in Next.js. Deployed with Docker and Kubernetes.
 
 ### ⚡ [KwikInstaPe](https://kwikinstape.com): Digital Payment Platform
 `Next.js` `Django REST Framework` `JWT`
