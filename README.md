@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Mohammad Aamir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Developer;Building+payment+platforms+that+handle+real+money;Django+REST+%7C+FastAPI+%7C+React+%7C+Next.js;From+API+design+to+Kubernetes+deployment" alt="Full Stack Software Developer | Fintech and SaaS | Django, FastAPI, React, Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Developer;Building+payment+platforms+that+handle+real+money;Django+REST+%7C+FastAPI+%7C+React+%7C+Next.js;From+API+design+to+production" alt="Full Stack Software Developer | Fintech and SaaS | Django, FastAPI, React, Next.js" />
 </p>
 
 <p align="center">
